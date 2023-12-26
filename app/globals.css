@@ -4,7 +4,7 @@
 
 :root {
   --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 255, 148, 148;
+  --background-start-rgb: 255, 163, 91;
   --background-end-rgb: 255, 255, 148;
 }
 
@@ -16,5 +16,6 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-    
+  height: 2500px;
+
 }
